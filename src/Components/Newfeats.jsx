@@ -22,6 +22,7 @@ function Newfeats() {
             <div className='text-white text-3xl text-center h-30 py-10 px-5'>More power with Snapdragon 8 Gen 1.</div>
             <div className='bg-gray-200' >
                 <img src="./nothing-ph2-4.jpg" alt="" className='object-cover pt-10 md:w-1/2 w-96 h-auto m-auto '  />
+                
             </div>
             <div className='text-gray-800 text-3xl bg-gray-200 text-center h-30 py-10 px-5'>Bigger battery.</div>
             <div className='text-gray-800 text-3xl bg-gray-200 text-center h-30 py-20 px-5'>And much more at <a href="https://nothing.tech" className='text-blue-500'>Nothing.tech</a></div>

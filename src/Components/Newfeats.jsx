@@ -3,13 +3,13 @@ function Newfeats() {
     return (
         <>
             <div className='text-white text-4xl text-center mt-20 h-30 pb-10'>Whats new?</div>
-            <img src="./public/nothing-ph2-3.jpg" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '560px' }} />
+            <img src="./public/nothing-ph2-3.png" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '560px' }} />
             <div className='text-white text-3xl text-center h-30 py-10 px-5'>New design with curved back glass and new Glyph.</div>
             <div className='bg-gray-200 flex flex-wrap pt-10 justify-center'>
-                <img src="./public/sample-1.jpg" className='w-1/3 m-5 md:w-96 md:m-10'  />
-                <img src="./public/sample-2.jpg" className='w-1/3 m-5 md:w-96 md:m-10'  />
-                <img src="./public/sample-3.jpg" className='w-1/3 m-5 md:w-96 md:m-10'  />
-                <img src="./public/sample-4.jpg" className='w-1/3 m-5 md:w-96 md:m-10'  />
+                <img src="./public/sample-1.png" className='w-1/3 m-5 md:w-96 md:m-10'  />
+                <img src="./public/sample-2.png" className='w-1/3 m-5 md:w-96 md:m-10'  />
+                <img src="./public/sample-3.png" className='w-1/3 m-5 md:w-96 md:m-10'  />
+                <img src="./public/sample-4.png" className='w-1/3 m-5 md:w-96 md:m-10'  />
             </div>
             <div className='text-gray-800 text-3xl bg-gray-200 text-center h-30 py-10 px-5'>Better cameras.</div>
             <div><img src="./nothing-os.jpg" className='object-cover pt-10 md:w-1/2 w-96 h-auto m-auto '  /></div>

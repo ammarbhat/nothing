@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 function Intro() {
     return (
         <div className='overflow-hidden'>
-            
+
             <motion.img src="./nothing-ph2-1.jpg" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '560px' }}
             animate={{
                 opacity: 1,
@@ -32,7 +32,7 @@ function Intro() {
             <div className='bg-gray-200'>
             <img src="./nothing-ph2-2.jpg" alt="" className='object-cover m-auto sm:h-full  mb-30 ' style={{ maxHeight: '560px' }} />
             </div>
-            <div className='h-20 w-full text-gray-800 pt-5 text-4xl bg-gray-200 text-center'>Nothing Phone(2) is here.</div>
+            <div className='h-36 w-full text-gray-800 pt-10 text-4xl bg-gray-200 text-center'>Nothing Phone(2) is here.</div>
 
         </div>
     )

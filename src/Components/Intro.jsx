@@ -17,7 +17,7 @@ function Intro() {
                 duration: 5
             }}
         />
-            <motion.div className='h-20 w-full text-white text-4xl m-8 ml-4 text-center'
+            <motion.div className='h-20 w-full text-white text-4xl m-6 ml-4 text-center'
                 whileInView={{
                     opacity: 1,
                 }}

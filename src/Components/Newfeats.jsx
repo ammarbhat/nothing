@@ -3,7 +3,7 @@ function Newfeats() {
     return (
         <>
             <div className='text-white text-4xl text-center mt-20 h-30 pb-10'>Whats new?</div>
-            <img src="./nothing-ph2-3.jpg" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '560px' }} />
+            <img src="./nothing-ph2-3.jpg" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '650px' }} />
             <div className='text-white text-3xl text-center h-30 py-10 px-5'>New design with curved back glass and new Glyph.</div>
             <div className='bg-gray-200 flex flex-wrap pt-10 justify-center'>
                 <img src="./sample-1.jpg" className='w-1/3 m-5 md:w-96 md:m-10'  />

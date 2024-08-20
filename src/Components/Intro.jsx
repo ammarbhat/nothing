@@ -4,7 +4,7 @@ function Intro() {
     return (
         <div className='overflow-hidden'>
 
-            <motion.img src="./nothing-ph2-1.jpg" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '560px' }}
+            <motion.img src="./nothing-ph2-1.jpg" className='object-cover w-full sm:h-full  mb-30 ' style={{ height: '660px' }}
                 animate={{
                     opacity: 1,
                     scale: 1
@@ -29,11 +29,11 @@ function Intro() {
                 }}
                 viewport={{ amount: 0.5, once: false }}
             >We make tech fun again.</motion.div>
-            <div className='bg-gray-200'>
-                <img src="./nothing-ph2-2.jpg" alt="" className='object-cover m-auto sm:h-full  mb-30 ' style={{ maxHeight: '560px' }} />
+            <div className='bg-gray-200' style={{height: '900px'}} >
+                <img src="./nothing-ph2-2.jpg" alt="" className='object-cover m-auto mt-20 sm:h-full' style={{height: '600px'}}/>
+           
+            <div className='h-12 w-full text-gray-800 pt-20 text-4xl bg-gray-200 text-center'>Nothing Phone(2) is here.</div>
             </div>
-            <div className='h-36 w-full text-gray-800 pt-10 text-4xl bg-gray-200 text-center'>Nothing Phone(2) is here.</div>
-
         </div>
     )
 }
